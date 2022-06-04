@@ -1,2 +1,2 @@
 #TEST
-new text
+ Текс для fix-3
